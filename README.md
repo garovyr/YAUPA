@@ -1,2 +1,2 @@
-# YAUPA
-🏗️ Yet Another University Project Archive
+# YAAPA
+🏗️ Yet Another Academic Project Archive
